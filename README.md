@@ -1,5 +1,7 @@
 # [HFS Monitor](../../releases/)
 
+![screenshot](../../blob/main/screenshots/icon.png)
+
 ---
 
 ## Project Description
@@ -218,3 +220,4 @@ theme=LightTheme
 Support:
 * BTC: `bc1qeuq7s8w0x7ma59mwd4gtj7e9rjl2g9xqvxdsl6`
 * TON: `UQAOQXGtTi_aM1u54aQjb8QiXZkQdaL9MDSky5LHN0F5-yF2`
+
